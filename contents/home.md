@@ -7,5 +7,5 @@ yuxin24@jlu.edu.cn
 B.A. Mathematics, Jilin University, 2020—2024.
 
 #### Research Interests
-Low dimensional topology, Kont Theory
+Low dimensional topology, Knot Theory
 
